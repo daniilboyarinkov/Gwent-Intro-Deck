@@ -8,11 +8,11 @@
       "titles": ["Размещение:"],
       "texts": ["Усильте эту карту на 1 ед. за каждый усиленный дружественный отряд."]
     },
-    "img": "/Card-Swiper/imgs/picture_0.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/2.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/blue.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_0.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/2.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/blue.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 1,
@@ -25,11 +25,11 @@
         "Нанесите 1 ед. урона вражескому отряду. если уничтожите его, нанесите 3 ед. урона другому вражескому отряду."
       ]
     },
-    "img": "/Card-Swiper/imgs/picture_1.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/blue.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_1.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/blue.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 2,
@@ -40,11 +40,11 @@
       "titles": ["Приказ"],
       "texts": ["усиливайте эту карту на 1 ед. каждый раз, когда играете отряд со способностью."]
     },
-    "img": "/Card-Swiper/imgs/picture_2.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/blue.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_2.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/blue.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 3,
@@ -58,11 +58,11 @@
         "Увеличивайте число зарядов на 1 каждый раз, когда играете карту со способностью приказ."
       ]
     },
-    "img": "/Card-Swiper/imgs/picture_3.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/blue.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_3.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/blue.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 4,
@@ -75,11 +75,11 @@
         "Нанесите 1 ед. урона отряду. если карта \"лирия: ландскнехт\" была усилена, тогда нанесите 3 ед. урона отряду."
       ]
     },
-    "img": "/Card-Swiper/imgs/picture_4.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/blue.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_4.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/blue.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 5,
@@ -90,11 +90,11 @@
       "titles": ["Размещение:"],
       "texts": ["Уничтожьте вражеский артефакт."]
     },
-    "img": "/Card-Swiper/imgs/picture_5.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/4.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/blue.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_5.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/4.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/blue.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 6,
@@ -105,11 +105,11 @@
       "titles": ["Размещение:"],
       "texts": ["Переместите отряд в другой ряд на его стороне."]
     },
-    "img": "/Card-Swiper/imgs/picture_6.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/4.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/blue.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_6.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/4.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/blue.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 7,
@@ -120,11 +120,11 @@
       "titles": [],
       "texts": ["Уничтожьте дружественные отряды одного цвета (2), затем сотворите и сыграйте отряд того же цвета."]
     },
-    "img": "/Card-Swiper/imgs/picture_7.jpg",
+    "img": "/Gwent-Intro-Deck/imgs/picture_7.jpg",
     "power": "",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 8,
@@ -135,11 +135,11 @@
       "titles": ["Размещение:", "Рукопашный ряд."],
       "texts": ["Усильте эту карту на случайное значение в пределах от 0 до 11 ед."]
     },
-    "img": "/Card-Swiper/imgs/picture_8.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/1.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_8.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/1.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 9,
@@ -150,11 +150,11 @@
       "titles": ["Размещение:"],
       "texts": ["Дальнобойный ряд: поменяйте все карты в вашем сбросе на карты из вашей колоды."]
     },
-    "img": "/Card-Swiper/imgs/picture_9.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/2.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_9.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/2.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 10,
@@ -165,11 +165,11 @@
       "titles": ["Размещение:", "Шпион"],
       "texts": ["Сыграйте случайную золотую карту из вашей колоды."]
     },
-    "img": "/Card-Swiper/imgs/picture_10.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/2.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_10.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/2.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 11,
@@ -180,11 +180,11 @@
       "titles": ["Размещение:", "Приказ", "Рукопашный ряд"],
       "texts": ["Уничтожьте вражеский отряд со способностью."]
     },
-    "img": "/Card-Swiper/imgs/picture_11.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_11.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 12,
@@ -195,11 +195,11 @@
       "titles": ["Размещение:", "Приказ", "Рвение"],
       "texts": ["Если в вашей руке есть дракон.", "Уничтожьте отряд с силой не менее 8 ед."]
     },
-    "img": "/Card-Swiper/imgs/picture_12.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_12.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 13,
@@ -213,11 +213,11 @@
         "Увеличивайте число зарядов на 1 каждый раз, когда любой из игроков играет карту."
       ]
     },
-    "img": "/Card-Swiper/imgs/picture_13.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_13.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 14,
@@ -228,11 +228,11 @@
       "titles": ["Размещение:"],
       "texts": ["Уничтожьте все отряды с силой 1 ед. усильте эту карту на 2 ед. за каждый уничтоженный отряд."]
     },
-    "img": "/Card-Swiper/imgs/picture_14.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/mon.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_mon.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_14.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/mon.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_mon.jpg"
   },
   {
     "id": 15,
@@ -243,11 +243,11 @@
       "titles": ["Размещение:"],
       "texts": ["Нанесите вражескому отряду урон, равный числу дружественных людей."]
     },
-    "img": "/Card-Swiper/imgs/picture_15.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/3.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_15.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/3.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 16,
@@ -258,11 +258,11 @@
       "titles": ["Приказ:"],
       "texts": ["Сыграйте случайный артефакт из колоды противника."]
     },
-    "img": "/Card-Swiper/imgs/picture_16.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/4.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_16.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/4.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 17,
@@ -273,11 +273,11 @@
       "titles": ["Рукопашный ряд:"],
       "texts": ["Усиливайте эту карту на {boost} ед. каждый раз, когда вражеский отряд получает урон."]
     },
-    "img": "/Card-Swiper/imgs/picture_17.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/4.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/ske.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_ske.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_17.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/4.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/ske.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_ske.jpg"
   },
   {
     "id": 18,
@@ -288,11 +288,11 @@
       "titles": ["Размещение:", "Рукопашный ряд"],
       "texts": ["Нанесите по 3 ед. урона вражескому отряду и всем его копиям."]
     },
-    "img": "/Card-Swiper/imgs/picture_18.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/4.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_18.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/4.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 19,
@@ -303,11 +303,11 @@
       "titles": ["Размещение:"],
       "texts": ["Посмотрите верхние карты (3) в колоде противника и переместите 1 из них в сброс противника."]
     },
-    "img": "/Card-Swiper/imgs/picture_19.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/4.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/nil.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nil.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_19.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/4.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nil.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nil.jpg"
   },
   {
     "id": 20,
@@ -318,11 +318,11 @@
       "titles": [],
       "texts": ["Если в конце хода этот отряд усилен, усильте смежные отряды на 1 ед."]
     },
-    "img": "/Card-Swiper/imgs/picture_20.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/4.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_20.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/4.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 21,
@@ -333,11 +333,11 @@
       "titles": ["Размещение:"],
       "texts": ["Создайте махакамский эль или испорченный эль."]
     },
-    "img": "/Card-Swiper/imgs/picture_21.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/5.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_21.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/5.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 22,
@@ -348,11 +348,11 @@
       "titles": [],
       "texts": ["Каждый раз, когда играют дружественный отряд с зарядами, увеличивайте число его зарядов на 1."]
     },
-    "img": "/Card-Swiper/imgs/picture_22.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/5.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_22.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/5.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   },
   {
     "id": 23,
@@ -366,11 +366,11 @@
         "Увеличивайте число зарядов на 1 каждый раз, когда играете ведьмака."
       ]
     },
-    "img": "/Card-Swiper/imgs/picture_23.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/5.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_23.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/5.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 24,
@@ -383,11 +383,11 @@
         "Дальнобойный ряд: посмотрите верхнюю карту из обеих колод. одну оставьте себе, другую отдайте противнику."
       ]
     },
-    "img": "/Card-Swiper/imgs/picture_24.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/5.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/nil.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nil.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_24.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/5.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nil.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nil.jpg"
   },
   {
     "id": 25,
@@ -401,11 +401,11 @@
         "Дальнобойный ряд: удалите все карты из вашего сброса."
       ]
     },
-    "img": "/Card-Swiper/imgs/picture_25.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/5.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_25.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/5.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 26,
@@ -416,11 +416,11 @@
       "titles": ["Рукопашный ряд:"],
       "texts": ["В конце каждого хода уничтожайте слабейший отряд на той стороне, где больше всего отрядов."]
     },
-    "img": "/Card-Swiper/imgs/picture_26.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/6.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/mon.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_mon.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_26.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/6.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/mon.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_mon.jpg"
   },
   {
     "id": 27,
@@ -431,11 +431,11 @@
       "titles": ["Размещение:"],
       "texts": ["Усильте дружественного эльфа, краснолюда и дриаду на 2 ед."]
     },
-    "img": "/Card-Swiper/imgs/picture_27.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/6.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/sco.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_sco.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_27.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/6.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/sco.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_sco.jpg"
   },
   {
     "id": 28,
@@ -446,11 +446,11 @@
       "titles": [],
       "texts": ["В конце каждого хода перемещайте в ряд, где находится сильнейший отряд на поле."]
     },
-    "img": "/Card-Swiper/imgs/picture_28.jpg",
-    "power": "/Card-Swiper/imgs/power_numbers/10.png",
-    "diamonds": "/Card-Swiper/imgs/diamonds/purple.png",
-    "banner": "/Card-Swiper/imgs/banners/neu.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_neu.jpg"
+    "img": "/Gwent-Intro-Deck/imgs/picture_28.jpg",
+    "power": "/Gwent-Intro-Deck/imgs/power_numbers/10.png",
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/purple.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/neu.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_neu.jpg"
   },
   {
     "id": 29,
@@ -461,11 +461,11 @@
       "titles": ["Приказ:"],
       "texts": ["Усильте отряд в вашей руке на 8 ед."]
     },
-    "img": "/Card-Swiper/imgs/picture_29.jpg",
+    "img": "/Gwent-Intro-Deck/imgs/picture_29.jpg",
     "power": "",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/mon.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_mon.jpg"
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/mon.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_mon.jpg"
   },
   {
     "id": 30,
@@ -476,10 +476,10 @@
       "titles": ["Приказ:", "Ходов до восстановления: 2."],
       "texts": ["Увеличьте число зарядов у отряда на 1."]
     },
-    "img": "/Card-Swiper/imgs/picture_30.jpg",
+    "img": "/Gwent-Intro-Deck/imgs/picture_30.jpg",
     "power": "",
-    "diamonds": "/Card-Swiper/imgs/diamonds/gold.png",
-    "banner": "/Card-Swiper/imgs/banners/nor.png",
-    "top": "/Card-Swiper/imgs/cardInfo/LayoutTop_nor.jpg"
+    "diamonds": "/Gwent-Intro-Deck/imgs/diamonds/gold.png",
+    "banner": "/Gwent-Intro-Deck/imgs/banners/nor.png",
+    "top": "/Gwent-Intro-Deck/imgs/cardInfo/LayoutTop_nor.jpg"
   }
 ]

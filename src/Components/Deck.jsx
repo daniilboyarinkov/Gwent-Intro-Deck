@@ -54,7 +54,7 @@ const Deck = ({ cards, setCurrentCard, setLayoutActive, showCardInfo }) => {
         }}>
         <div className='banner'></div>
         <img draggable={false} className='CardPicture' src={`${cards[i].img}`} alt='' />
-        <img draggable={false} className='CardFrame' src='/Card-Swiper/imgs/frame.png' alt='' />
+        <img draggable={false} className='CardFrame' src='/Gwent-Intro-Deck/imgs/frame.png' alt='' />
         <div className='CardBannerWrapper'>
           <img className='CardBanner' draggable={false} src={`${cards[i].banner}`} alt='' />
           {cards[i].power.length > 0 && (
