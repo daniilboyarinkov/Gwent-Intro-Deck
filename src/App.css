@@ -1,0 +1,366 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  background-image: url(../public/assets/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center center;
+  background-color: #000;
+  user-select: none;
+}
+
+/* ------------ */
+
+.BeyondScenes {
+  background-image: url(../public/assets/hidden-bc.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center top;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+}
+
+.BeyondScenesLogo {
+  max-width: 65%;
+}
+
+.BeyondScenesLogoText {
+  text-transform: uppercase;
+  font-size: 3rem;
+  font-family: GWENT, sans-serif;
+  background-image: radial-gradient(#ffec88 10%, #e2a63d 60%);
+  text-shadow: none;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.BeyondScenesBtn {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  margin-top: 2rem;
+  background-image: url(../public/assets/button.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-transform: uppercase;
+}
+
+.BeyondScenesBtn:hover {
+  filter: brightness(120%);
+}
+
+.BeyondScenesBtn > a {
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 1.4rem;
+  text-decoration: none;
+  color: #000;
+  padding: 2.2rem 6rem;
+}
+
+@media screen and (max-width: 721px) {
+  .BeyondScenes {
+    background-size: 150%;
+  }
+  .BeyondScenesLogoText {
+    font-size: 2rem;
+  }
+  .BeyondScenesBtn > a {
+    padding: 2rem 4.4rem;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .BeyondScenesLogoText {
+    font-size: 1.5rem;
+  }
+  .BeyondScenesBtn > a {
+    font-size: 1rem;
+    padding: 1rem 3rem;
+  }
+}
+
+.BeyondScenesPS {
+  opacity: 0.2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  width: fit-content;
+  margin: 0 auto;
+  letter-spacing: 1px;
+}
+
+.BeyondScenesPS > img {
+  max-height: 100%;
+}
+
+.BeyondScenesPS > a {
+  color: #eee;
+  cursor: pointer;
+  padding: 0.2rem;
+}
+
+/* ------------ */
+
+.Separator {
+  color: transparent;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  cursor: pointer;
+  opacity: 0.2;
+  position: absolute;
+  background-image: url(../public/assets/separator.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  top: -1%;
+  width: 100%;
+  height: 65px;
+  z-index: 2;
+  transition: opacity 0.6s ease;
+}
+
+.Separator:hover {
+  color: #ffffff22;
+  opacity: 1;
+}
+
+.Separator:active {
+  color: #ffffff22;
+  opacity: 1;
+}
+
+/* ------------ */
+
+.CardContainer {
+  position: absolute;
+  width: 100vw;
+  height: 80vh;
+  margin-top: 20vh;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+}
+
+.Card {
+  touch-action: pan-y;
+  font-size: 10rem;
+  width: 45vh;
+  max-width: min(300px, 100vw);
+  height: 75vh;
+  max-height: min(570px, 100vh);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.CardPicture,
+.CardFrame {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 0.6rem;
+}
+
+.CardBannerWrapper {
+  width: 35%;
+  height: 25%;
+  position: absolute;
+  top: 1%;
+  left: 1%;
+}
+
+.CardBanner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.CardPower {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 75%;
+  height: 75%;
+}
+
+.CardDiamond {
+  position: absolute;
+  top: 13%;
+  left: 12.5%;
+  width: 25%;
+  height: 25%;
+}
+
+/* ------------ */
+
+.Table {
+  opacity: 0.1;
+  background-color: #ddd;
+  border-radius: 1rem;
+  width: 98vw;
+  height: 100vh;
+  position: absolute;
+  bottom: -12%;
+  left: 50%;
+  transform: translateX(-50%) rotateX(45deg);
+  perspective: 2000px;
+}
+
+/* ------------ */
+
+.Wrapper {
+  position: absolute;
+  width: 100%;
+  top: 2.5%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+}
+
+.CancelSvg {
+  width: 100px;
+  height: 100px;
+}
+
+.OkSvg {
+  width: 100px;
+  height: 100px;
+}
+
+.LayoutTitle {
+  top: 50%;
+  position: absolute;
+  font-size: 2.5rem;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.CancelTitle {
+  left: 30%;
+}
+
+.OkTitle {
+  left: 55%;
+}
+
+/* ------------ */
+
+.CardInfoWrapper {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #00000066;
+  z-index: 1000;
+}
+
+.CardInfo {
+  background-color: #222222fd;
+  width: 365px;
+  height: fit-content;
+  position: relative;
+  border-radius: 1.2rem;
+  overflow: hidden;
+  display: flex;
+  flex-flow: row wrap;
+  z-index: 1000;
+}
+
+.CardInfoHeader {
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center 0;
+  color: #fff;
+  width: 100%;
+  z-index: 1;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 110px;
+}
+
+.CardInfoName {
+  font-family: GWENT, sans-serif;
+  padding-top: 14px;
+  padding-bottom: 4px;
+  font-size: 32px;
+  line-height: 26px;
+}
+
+.CardInfoFraction {
+  font-size: 18px;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+.CardInfoContent {
+  background-image: url('../public/imgs/cardInfo/LayoutBottom.png'), url(../public/imgs/cardInfo/LayoutCenter.jpg);
+  background-repeat: no-repeat, repeat-y;
+  background-size: 100% auto;
+  background-position: center bottom;
+  width: 100%;
+  min-width: 100%;
+  min-height: 250px;
+  line-height: 18px;
+  font-size: 16px;
+  font-weight: 500;
+  display: flex;
+}
+
+.CardInfoContent > img {
+  width: 170px;
+  height: 256px;
+  padding: 1rem;
+  border-radius: 21px;
+}
+
+.CardInfoText {
+  width: 80%;
+  font-size: 14px;
+  text-align: start;
+  padding-right: 1rem;
+  padding-top: 0.2rem;
+  padding-bottom: 1.2rem;
+  color: #212121;
+}
+
+.CardInfoContentTitle {
+  margin-top: 6px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.Cross {
+  position: absolute;
+  top: 0;
+  right: 0;
+  transition: scale 0.2s ease;
+  z-index: 3;
+}
+
+.Cross:hover {
+  scale: 1.1;
+}
