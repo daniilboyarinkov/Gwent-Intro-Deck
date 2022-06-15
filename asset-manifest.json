@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Gwent-Intro-Deck/static/css/main.3f787f58.css",
+    "main.js": "/Gwent-Intro-Deck/static/js/main.600c306a.js",
+    "static/media/hidden-bc.jpg": "/Gwent-Intro-Deck/static/media/hidden-bc.f44efbcd85cd99b844ef.jpg",
+    "static/media/background.jpg": "/Gwent-Intro-Deck/static/media/background.833d590d0558fd141272.jpg",
+    "static/media/GWENT.woff": "/Gwent-Intro-Deck/static/media/GWENT.cdf6f3c1de548e22fc04.woff",
+    "static/media/button.png": "/Gwent-Intro-Deck/static/media/button.48712ca0f1dbdf7740d5.png",
+    "static/media/separator.png": "/Gwent-Intro-Deck/static/media/separator.756b1d155c03b094f406.png",
+    "static/media/LayoutCenter.jpg": "/Gwent-Intro-Deck/static/media/LayoutCenter.e31574a11437f9590901.jpg",
+    "index.html": "/Gwent-Intro-Deck/index.html",
+    "main.3f787f58.css.map": "/Gwent-Intro-Deck/static/css/main.3f787f58.css.map",
+    "main.600c306a.js.map": "/Gwent-Intro-Deck/static/js/main.600c306a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f787f58.css",
+    "static/js/main.600c306a.js"
+  ]
+}
