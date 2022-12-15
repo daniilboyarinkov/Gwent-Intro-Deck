@@ -1,22 +1,20 @@
 
 <div align="center">
   <h1> Gwent Intro Deck </h1>
-
-  <h3> <b> <a href="https://daniilboyarinkov.github.io/Card-Swiper/"> Skeleton Link </a> </b> </h3>
-  <h2> <b> <a href="https://daniilboyarinkov.github.io/Gwent-Intro-Deck"> Deploy Link </a> </b> </h2>
-
 </div>
 
-<h2> Photos: </h2>
+<h3> Тык на картинки: </h3>
 
-![](/for_readme/1.jpg)
-![](/for_readme/2.jpg)
-![](/for_readme/3.jpg)
-![](/for_readme/4.jpg)
-![](/for_readme/5.jpg)
-![](/for_readme/6.jpg)
+<a href="https://daniilboyarinkov.github.io/Gwent-Intro-Deck" >
+  <img alt="preview" src="./for_readme/1.jpg" />
+  <img alt="preview" src="./for_readme/2.jpg" />
+  <img alt="preview" src="./for_readme/3.jpg" />
+  <img alt="preview" src="./for_readme/4.jpg" />
+  <img alt="preview" src="./for_readme/5.jpg" />
+  <img alt="preview" src="./for_readme/6.jpg" />
+</a>
 
----
+<h2> <b> <a href="https://daniilboyarinkov.github.io/Gwent-Intro-Deck"> Ссылка на проект </a> </b> </h2>
 
 Used:
 
@@ -29,7 +27,7 @@ Also used:
 - Eslint
 - Prettier
 
----
+<h3> <b> <a href="https://daniilboyarinkov.github.io/Card-Swiper/"> Ссылка на "скелет" проекта </a> </b> </h3>
 
 Gwent Links:
 
